@@ -11,7 +11,7 @@ Esta iniciativa potenciará la comunidad latinoamericana de bioimágenes por med
 
 
 {% highlight ruby %}
-Los talleres y seminarios se anunciaran 
+Nuestros talleres y seminarios se anunciaran 
 en nuestros boletines mensuales
 
 {% endhighlight %}
