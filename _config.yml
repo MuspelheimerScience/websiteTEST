@@ -32,8 +32,7 @@ twitter_username: wenzel lab
 github_username:  LIBRE_hub
 
 # Build settings
-#Removed minima theme as it is a now a regular theme. 
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
