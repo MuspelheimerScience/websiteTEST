@@ -7,6 +7,7 @@ image: /assets/images/fondo librehub.jpg
 ---
 This post is about LIBRE_hub Activities 
 
-![]({{page.image}})
+![]({{ page.image| relative_url }})
+
 
 
