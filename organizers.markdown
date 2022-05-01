@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-permalink: /Organizers/
+permalink: /organizers/
 ---
 Here you can find information about our organizers
 
