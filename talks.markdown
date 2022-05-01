@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: talks 
 permalink: /talks/
 ---
 Here you can find information about our talks and seminars 
