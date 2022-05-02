@@ -6,6 +6,5 @@ permalink: /talks/
 Here you can find information about our talks and seminars 
 
 
-
-![Alt text](/TalksPosters/librehub calendar version5.jpg){:height="450px" width="750px"}
-
+### Coming Talks - LIBRE_hub
+![Alt text](/TalksPosters/librehub calendar version5.jpg){:height="750px" width="450px"}
