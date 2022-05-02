@@ -6,7 +6,7 @@ permalink: /organizers/
 Here you can find information about our organizers
 
 ### Coordinadores Generales - LIBRE_hub
-![Alt text](/images/twenzel.jpeg){:height="140px" width="130px"}
+![Alt text](/images/twenzel.jpeg){:height="140px" width="140px"}
 
 *Tobias Wenzel, PhD | tobias.wenzel@uc.cl*
 ><div style="text-align: justify">Magister en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia (UPCH), Ingeniero Electrónico de la Universidad Nacional del Callao (UNAC). En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH. Calificado como investigador en el Registro Nacional Científico, Tecnológico y de Innovación Tecnológica (RENACYT) en la categoria María Rostworowski Nivel I.
