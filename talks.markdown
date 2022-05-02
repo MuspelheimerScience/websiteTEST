@@ -7,4 +7,4 @@ Here you can find information about our talks and seminars
 
 
 ### Coming Talks - LIBRE_hub
-![Alt text](/TalksPosters/librehub calendar version5.jpg){:height="950px" width="850px"}
+![Alt text](/TalksPosters/librehub calendar version5.jpg){:height="1050px" width="950px"}
