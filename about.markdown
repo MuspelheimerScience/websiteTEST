@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![Alt text](/images/custom.jpeg){:height="240px" width="240px"}
+![Alt text](/images/custom.jpg){:height="340px" width="340px"}
 
 
 ¿Qué es LIBRE_hub?
